@@ -1,0 +1,192 @@
+*{
+padding: 0;
+margin: 0;
+}
+.header{
+
+    background-color: #163a24;
+    align-items: center;
+    padding: 17px 0;
+    
+}
+.header_wrap{
+    display: flex;
+   justify-content: space-between; 
+   align-items: center;
+   
+}
+.login{
+    color: #fff;
+    padding-right: 25px;
+    font-size: 18px;
+}
+.number{
+    color: #fff;
+    padding-right: 25px;
+    font-size: 18px;
+}
+.container{
+    max-width: 1180px;
+    margin: 0 auto;
+    
+}
+.nav{
+    display: flex;
+   justify-content: space-between; 
+   align-items: center;
+}
+.get{
+    font-size: 20px;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: #198a36;
+    color: #fff;
+}
+button{
+    background-color: #163a24;
+    border: none;
+}
+.main{
+background-color: #163a24;
+height: 544px;
+}
+.main_title{
+color: #fff;
+font-size: 48px;
+max-width: 391px;
+padding-top: 120px;
+
+}
+.main_subtitles{
+color: #fff;
+font-size: 18px;
+max-width: 475px;
+padding-top:18px ;
+
+}
+.main_block{
+    display: flex;
+    justify-content: space-between;
+}
+.toma_title{
+    font-size: 48px;
+    padding-top: 155px;
+    max-width: 325px;
+
+    
+}
+.toma_subtitles{
+    font-size: 18px;
+    padding-top: 18px;
+    max-width: 374px;
+}
+.toma{
+    padding-top: 118px;
+   
+}
+.block1{
+    display: flex;
+    justify-content: space-between;
+
+}
+.ira{
+    font-size: 48px;
+    justify-content: center;
+    display: flex;
+    padding-top: 113px;
+}
+.rom{
+    justify-content: center;
+    display: flex;
+    padding-top: 66px;
+
+}
+.blocks{
+display: flex;
+justify-content: space-between;
+
+
+}
+.title{
+    display: flex;
+    justify-content: center;
+    font-size: 48px;
+    padding-top: 66px;
+    color: #fff;
+}
+.block2{
+    display: flex ;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 73px;
+}
+.production{
+    background-color: #163a24;
+    margin-top: 246px;
+    
+}
+.production_text{
+    color: #fff;
+    padding-top: 28px;
+    margin-bottom: 120px;
+    
+}
+.alt{
+    background-color: #F2EFE6;
+}
+.p_title{
+    
+    font-size: 48px;
+    padding-top: 119.88px;
+    
+    display: flex;
+    justify-content:center;
+    padding-left: 23.34px;
+    color:#163a24;
+}
+.p_subtitles{
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    padding-top: 27px;
+    
+    
+}
+.tor2{
+    display: flex;
+    justify-content: center;
+    margin-left: 130px;
+}
+.los_title{
+    font-size: 48px;
+    padding-top: 280px;
+    max-width: 325px;
+    color: #163a24;
+}
+
+.los{
+    margin-top: 180px;
+}  
+
+.los_subtitles{
+    font-size: 18px;
+    padding-top: 18px;
+    max-width: 374px;
+}
+
+.block9{
+    display: flex;
+    justify-content: center;
+    padding-top:10px ;
+}
+.vik9{
+    max-width: 487px;
+    padding-top: 180px;
+}
+.block5{
+    padding-top: 20px;
+}
+.lom{
+    padding-top: 100px;
+}
